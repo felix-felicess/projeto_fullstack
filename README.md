@@ -1,4 +1,4 @@
-# {Nome do Projeto} - Web II
+# Projeto FullStack Anotações - Web II
 
 ## Equipe
 Ayla de  Medeiros Santana
